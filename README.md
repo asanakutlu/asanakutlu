@@ -1,4 +1,4 @@
-![logo](https://github.com/asanakutlu/asanakutlu/blob/main/photo.png)
+![logo](https://github.com/asanakutlu/asanakutlu/blob/main/photo1.png)
 <h1 align="center">Hi 👋, I'm Mustafa AŞANAKUTLU</h1>
 <h3 align="center">I am a passionate software developer in Turkey</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1ibfRD75ZMtDG/giphy.gif">
